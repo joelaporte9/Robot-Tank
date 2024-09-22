@@ -38,7 +38,7 @@
 
 
  
-// Include PS3 Controller library
+// Include PS5 Controller library
 #include <ps5Controller.h>
  
 // Define motor driver pins
